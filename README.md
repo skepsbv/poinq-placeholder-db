@@ -1,7 +1,8 @@
 # poinq-placeholder-db
 
 Generated using the following code on https://json-generator.com:
-```[
+```js
+[
   '{{repeat(2)}}',
   {
     id: '{{objectId()}}',
@@ -23,3 +24,4 @@ Generated using the following code on https://json-generator.com:
     ]
   }
 ]
+```

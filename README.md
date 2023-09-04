@@ -2,7 +2,8 @@
 
 Generated using the following code on https://json-generator.com:
 ```js
-[
+{
+  "initiatieven": [
   '{{repeat(2)}}',
   {
     id: '{{objectId()}}',
@@ -24,4 +25,5 @@ Generated using the following code on https://json-generator.com:
     ]
   }
 ]
+}
 ```
